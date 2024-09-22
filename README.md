@@ -5,7 +5,7 @@ Welcome to my journey of the #100DaysOfCode challenge! This repository will serv
 
 ## Day 1: [Linked Lists in Python](#day-1-linked-lists-in-python)
 
-**Date:** [Insert today's date]
+**Date:** 22/09/2024
 
 ### What I Learned:
 - Implemented a **Doubly Linked List** in Python.
